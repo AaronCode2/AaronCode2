@@ -1,5 +1,3 @@
-<h1>Hello There!</h1>
+#  Hello Viewer!
 
-<p>I'm a developer interested in the world of Games</p>
-<p>I'm usaully code in C++ and JS</p>
-
+  I'm a developer instrested in the world of Gaming
