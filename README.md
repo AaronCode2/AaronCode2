@@ -15,4 +15,6 @@ As of now, I'm ready to help anyone and make more exciting new projects 👾!
 
 It started with a homeowrk about **Coding**, when I wrote my first "Hello World" Program  
 I felt the power of communicating to computer, and soon started using JS to make a calculator app  
-and using Canvas to make games with the tutorials of [Chris](https://www.youtube.com/@ChrisCourses)
+and using Canvas to make games with the tutorials of [Chris](https://www.youtube.com/@ChrisCourses)  
+then my friend told me to learn C++ and so I did and gained a lot of knowledge and still to day  
+I can't imagine this all started with the homeowrk - Crazy!
