@@ -15,4 +15,4 @@ As of now, I'm ready to help anyone and make more exciting new projects 👾!
 
 It started with a homeowrk about **Coding**, when I wrote my first "Hello World" Program  
 I felt the power of communicating to computer, and soon started using JS to make a calculator app  
-and using Canvas to make games with the tutorials of [https://www.youtube.com/@ChrisCourses] Chris
+and using Canvas to make games with the tutorials of [Chris](https://www.youtube.com/@ChrisCourses)
