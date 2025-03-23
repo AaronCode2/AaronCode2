@@ -11,7 +11,7 @@ As of now, I'm ready to help anyone and make more exciting new projects 👾!
 - I live in the UK
 - I'm scaried of Bees
 
-## A little Sory
+## A little Story
 
 It started with a homeowrk about **Coding**, when I wrote my first "Hello World" Program  
 I felt the power of communicating to computer, and soon started using JS to make a calculator app  
