@@ -1,6 +1,6 @@
 #  Hello Viewer!
 
-I'm a developer instrested in the world of Gaming, I have made many classic games and a few of my own.  
+I'm a developer insterested in the world of Gaming, I have made many classic games and a few of my own.  
 I have enjoyed the creation of 2D making RPG games using **JS** and **C++ (mainly)** with no game engine ⚙️!  
 As of now, I'm ready to help anyone and make more exciting new projects 👾!
 
@@ -13,8 +13,8 @@ As of now, I'm ready to help anyone and make more exciting new projects 👾!
 
 ## A little Story
 
-It started with a homeowrk about **Coding**, when I wrote my first "Hello World" Program  
+It started with a homework about **Coding**, when I wrote my first "Hello World" Program  
 I felt the power of communicating to computer, and soon started using JS to make a calculator app  
 and using Canvas to make games with the tutorials of [Chris](https://www.youtube.com/@ChrisCourses),    
 then my friend told me to learn C++ and so I did and gained a lot of knowledge and still to day  
-I can't imagine this all started with the homeowrk - Crazy!
+I can't imagine this all started with the homework - Crazy!
