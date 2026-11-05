@@ -28,3 +28,5 @@ nor your parents, nor your friends, you did by yourself beacuse you were curious
 
 With my last marks, I will lay in history as one of those people who created amazing things and I'm proud of it. But reality hits hard sometimes. So marks my words wisely, 
 my final wish in coding came true, and now I grew up.
+
+Btw, April Fools, I will delete the note soon! 🙂
